@@ -15,15 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Source.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
     <ClCompile Include="Main.cpp">
-      <Filter>Исходные файлы</Filter>
+      <Filter>Файлы ресурсов</Filter>
     </ClCompile>
     <ClCompile Include="Source.cpp">
-      <Filter>Файлы заголовков</Filter>
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="void.cpp">
+      <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="void.cpp">
+    <ClInclude Include="void.hpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

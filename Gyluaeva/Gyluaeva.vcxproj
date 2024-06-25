@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Source.hpp" />
+    <ClCompile Include="void.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="void.cpp" />
+    <ClInclude Include="void.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
