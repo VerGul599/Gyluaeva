@@ -2,6 +2,6 @@
 #define SOURCE_HPP
 
 #include <iostream>
-int Void();
+int Source();
 
 #endif // !SOURCE_HPP

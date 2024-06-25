@@ -38,7 +38,7 @@ void bubbleSortDescending(float arr[], int size)
             }
         }
     }
-    std::cout << "Массив отсортирован по убыванию";
+    std::cout << "Массив отсортирован по убыванию: ";
 }
 
 void bubbleSortAscending(float arr[], int size)
@@ -55,6 +55,6 @@ void bubbleSortAscending(float arr[], int size)
             }
         }
     }
-    std::cout << "Массив отсортирован по возрастанию";
+    std::cout << "Массив отсортирован по возрастанию: ";
 }
 
